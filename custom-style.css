@@ -1,0 +1,181 @@
+/* Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@400;500;600;700&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  color: #1f1f1f;
+}
+
+p {
+  color: #4e4e4e;
+  font-family: "Inter", sans-serif;
+}
+
+.section-title {
+  font-weight: 600;
+  font-size: 2.2rem;
+}
+
+.see-all {
+  color: #ff9d00;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.see-all:hover {
+  color: #754b07;
+}
+
+.panda-btn {
+  color: #ffffff;
+  padding: 0.7rem 1.7rem;
+  border: none;
+  border-radius: 6px;
+}
+
+/* Navbar Style */
+
+.panda-navbar input {
+  color: #bababa;
+  font-style: italic;
+  font-size: 0.9rem;
+}
+
+.panda-navbar .panda-search {
+  color: #bababa;
+  margin-left: -40px;
+}
+
+.panda-search:hover {
+  color: #807f7f;
+}
+
+.panda-nav-link {
+  margin-right: 2rem;
+  text-decoration: none;
+  color: #707070;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.panda-nav-link:hover {
+  color: #555454;
+}
+
+/* Carousel Container */
+
+.panda-carousel {
+  margin-bottom: 5rem;
+}
+
+.panda-carousel-item {
+  background-color: #feeae9;
+  border-radius: 10px;
+}
+
+.panda-carousel-item h1 {
+  color: #1f1f1f;
+  font-size: 3.5rem;
+  font-weight: 700;
+}
+
+.panda-carousel-item p {
+  margin-top: 2rem;
+}
+
+.panda-carousel-item .panda-price {
+  color: #ff136f;
+  font-weight: 500;
+  font-size: 2.8rem;
+}
+
+.panda-price {
+  margin-top: 3rem;
+}
+
+.carousel {
+  margin-top: 6rem;
+}
+
+.carousel-btn {
+  background-color: #ff136f;
+}
+
+.panda-carousel-item img {
+  width: 400px;
+  height: 378px;
+  margin: 3rem;
+}
+
+/* Categories Styling */
+.section-title {
+  font-weight: 600;
+  font-size: 2.2rem;
+}
+
+.panda-category {
+  padding: 1.5rem 3rem;
+}
+
+.panda-category h1 {
+  color: #ffffff;
+  font-size: 2.1rem;
+  font-weight: 500;
+}
+
+.panda-category img {
+  width: 35%;
+}
+
+.panda-container-item1 {
+  background: linear-gradient(152.07deg, #ff9c35 1.47%, #ffd019 97.17%);
+}
+
+.panda-container-item2 {
+  background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+}
+
+.panda-container-item3 {
+  background: linear-gradient(170.41deg, #4289ff -10.89%, #3f07f8 92.77%);
+}
+
+/* Shoes & Backpack Section */
+
+.card-title {
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.panda-item-price {
+  font-size: 1.8rem;
+  font-weight: 500;
+}
+
+.card-btn {
+  background-color: #1f1f1f;
+}
+
+/* Subscribe Section */
+
+.panda-sub-area input {
+  width: 300px;
+  padding: 0.7rem 1rem;
+  color: #bababa;
+  border: none;
+}
+
+.sub-btn {
+  background-color: #ff136f;
+  padding: 0.7rem 1rem;
+  border-radius: 0;
+  border: none;
+}
+
+.sub-title {
+  font-size: 1.9rem;
+  font-weight: 700;
+}
